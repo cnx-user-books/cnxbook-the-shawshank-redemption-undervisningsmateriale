@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Shawshank  Redemption: Skuespillere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41232</md:content-id>
+  <md:title>The Shawshank  Redemption: Skuespillere</md:title>
+  <md:abstract>Dette modul er beregnet til engelsk undervisning for 7.-9. klasses elever. Modulet omhandler stjerneskuespillere filmen The Shawshank Redemption.</md:abstract>
+  <md:uuid>32a19523-2ce9-4440-b9f8-18e4885073d7</md:uuid>
+</metadata>
+
+<content>
+  <section id="morgan_info">
+<title>Morgan Freeman</title>
+  <para id="om_morgan">
+   Morgan Freeman er en verdenskendt skuespiller som har vundet et hav af priser for hans præstationi film. Morgan Freeman er født den 1. juni 1937 i Memphis, Tennessee i USA. Nogle af de nyere film Morgan Freeman er med i inkluderer: Batman Begins, The Dark Knight og Bruce Almighty. Morgan Freeman er kendt for hans beroligende stemme som er fyldt med autoritet og respekt. 
+  </para>
+</section>
+
+<media id="morgan" alt="Morgan Freeman.">
+  <image mime-type="image/jpeg" src="../../media/morgan.jpg"/>
+</media>
+
+<exercise id="morgan-opgave">
+  <problem id="morgan-problem">
+    <para id="morgan-problem-para">
+<preformat id="pre-exerciseEt">    
+      I hvilken katastrofefilm fra 1998 spiller Morgan Freeman den amerikanske præsident?
+</preformat>
+    </para>
+  </problem>  
+</exercise>
+
+<exercise id="morgan-opgaveto">
+  <problem id="morgan-problemto">
+    <para id="morgan-problem-parato">
+<preformat id="pre-exerciseTo">
+      Hvor mange Oscars har Morgan Freeman vundet?
+</preformat>    
+</para>
+  </problem>  
+</exercise>
+
+
+
+  <para id="morgan-para">
+    Brug f.eks. en af følgende links til at finde svarene:
+   <link url="http://www.imdb.com/name/nm0000151/bio" window="new">IMDB Morgan Freeman</link>.
+    <link url="http://en.wikipedia.org/wiki/Morgan_Freeman" window="new">Wikipedia Morgan Freeman</link>.
+  </para> 
+ 
+
+
+        
+
+  <section id="tim_info">
+<title>Tim Robbins</title>
+  <para id="om_tim">
+  Timothy Francis "Tim" Robbins er en amerikansk skuespiller, manuskriptforfatter, instruktør og musiker. Han er født den 16 oktober 1958 i West Covina, California i USA. Han er kendt fra film som Mystic River og Nothing to Lose. 
+  </para>
+</section>
+
+<media id="tim" alt="Tim Robbins.">
+  <image mime-type="image/jpeg" src="../../media/tim.jpg"/>
+</media>
+
+<exercise id="tim-opgave">
+  <problem id="tim-problem">
+    <para id="tim-problem-para">
+<preformat id="pre-exerciseTre">
+      Hvilken hovedrolleindehaver spillede Tim Robbins sammen med i filmen Nothing to Lose?
+</preformat>
+    </para>
+  </problem>  
+</exercise>
+
+
+<exercise id="tim-opgaveto">
+  <problem id="tim-problemto">
+    <para id="tim-problem-parato">
+<preformat id="pre-exerciseFire">
+      Hvad vandt Tim Robbins en Oscar for i 2004?
+</preformat>    
+</para>
+  </problem> 
+</exercise>
+
+
+  <para id="tim-para">
+    Brug f.eks. en af følgende links til at finde svarene:
+   <link url="http://www.imdb.com/name/nm0000209/bio" window="new">IMDB Tim Robbins</link>.
+    <link url="http://en.wikipedia.org/wiki/Tim_Robbins" window="new">Wikipedia Tim Robbins</link>.
+  </para> 
+  
+
+</content>
+
+</document>
