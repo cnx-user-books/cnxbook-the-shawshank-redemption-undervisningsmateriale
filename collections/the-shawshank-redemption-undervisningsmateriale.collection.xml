@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="da">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="da" authors="Jacob Midtgaard">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11367</md:content-id>
     <md:title>The Shawshank Redemption - undervisningsmateriale</md:title>
     <md:language>da</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>e9b9bb6e-c528-4d36-837d-d5022e2d84bf</md:uuid>
-<md:slug>the-shawshank-redemption-undervisningsmateriale</md:slug>
-</metadata>
+    <md:slug>the-shawshank-redemption-undervisningsmateriale</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m41226"/>
     <col:module document="m41232"/>
